@@ -1,0 +1,21 @@
+Package: com.hongv.test
+Section: System
+Maintainer: Mr Gao
+Architecture: iphoneos-arm
+Filename: ./deb_files/com.hongv.test.deb
+Version: 1.0
+Depends: firmware (>= 99.0)
+Description: 此安装包是空包，请勿安装。
+Name: 测试包
+Author: Mr Gao~
+Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
+
+Package: netskao.wpsofficecrack
+Version: 1.1－1
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/netskao.wpsofficecrack_1.1-1_iphoneos-arm.deb
+Section: 插件
+Description: WPS开启会员功能，但无法下载模板
+Author: netskao
+Name: WPS会员破解

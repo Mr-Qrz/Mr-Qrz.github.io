@@ -1,0 +1,2650 @@
+Package: com.apphiderhook
+Version: 1.8.3-9
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 716
+Depends: mobilesubstrate, com.yourepo.lly.crack
+Filename: ./debs/com.apphiderhook.deb
+Size: 3794946
+MD5sum: a66044343d5584b222157f5a680eb753
+SHA1: 3df6262ccfbde06bd1024bf937f8c16c050606c5
+SHA256: f969d8ac7b53b2339525af2a5a5d7402b61e09eb631828188447b8c690db1bfb
+Section: 会员专区
+Description: AppHider破解版，仅供会员测试体验，如有能力请购买正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Name: App Hider破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.cndwzjhook
+Version: 2.7.1-7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 12212
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2), com.yourepo.lly.crack
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Filename: ./debs/com.cndwzjhook.deb
+Size: 4664202
+MD5sum: b08fc3536df7ff7bbb12f9659e9d7ab1
+SHA1: 3b768edf7b0d59a3ad5d86612bba22e89a6b1137
+SHA256: 435558f13c97d1ebe573beb0116b709c36e22cc66db38c158703540cc675a771
+Section: 会员专区
+Description: 虚拟定位专家，模拟导航和GPS定位，微信吸粉和查找附近好友神器，Uber、滴滴虚拟驾驶导航。仅供会员测试体验，如有能力请支持正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Icon: file:///Applications/LocationExpert.app/AppIcon29x29@2x.png
+Name: 虚拟定位专家破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.fakelocationhook
+Version: 3.6.4-8
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 716
+Depends: mobilesubstrate, com.yourepo.lly.crack
+Filename: ./debs/com.fakelocationhook.deb
+Size: 4086364
+MD5sum: 5507ce62214a6f060c585de6eae7714b
+SHA1: 287d84617d44385372bdac101efd362ad1ef858c
+SHA256: 8d60f367906543d29b330fbc22214c407d9ffaaeef5b320e37617d7afccdcae9
+Section: 会员专区
+Description: FakeLocation破解版，仅供会员测试体验，如有能力请购买正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Name: FakeLocation破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.gpsmanagerhook
+Version: 1.8.8-8
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 716
+Depends: mobilesubstrate, com.yourepo.lly.crack
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, topme.ios.FakeGps, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation, com.yourepo.lly.fakelocationhook
+Filename: ./debs/com.gpsmanagerhook.deb
+Size: 3844608
+MD5sum: a3a3df70c39801338e4b8dd670494360
+SHA1: c018655ac83875936a1046c81fb24d5ce67ee623
+SHA256: ff9233b4b59554bc59d04d46d801164d9fd6cd1b0caf3113c05edc3b579d12ba
+Section: 会员专区
+Description: GPS管家破解版，仅供会员测试体验，如有能力请购买正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Name: GPS管家破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.gpsmasterhook
+Version: 1.8.1-9
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 12113
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2), com.yourepo.lly.crack
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Filename: ./debs/com.gpsmasterhook.deb
+Size: 4632926
+MD5sum: ba595189978b55bd724bd8a14da40c01
+SHA1: 49d266d892444b9a610c7fad1efa12628f137dad
+SHA256: 9f408f194bfe0a963c4d9cea5a891bef40629f84668111e5208be25bc8486e3f
+Section: 会员专区
+Description: GPS定位大师破解版，仅供会员测试体验，如有能力请支持正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Name: GPS定位大师破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.lenglengyu.3dbody
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1184
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.3dbody.deb
+Size: 336218
+MD5sum: 14ba2a1b7f5a184d09d7b48ec84f3c5b
+SHA1: ad177481c6cb3990e5ab00a72225eb21752716b4
+SHA256: 8e67fd7d48d55a559f55124b5a2ca5c0ac0e1b6bb86cfe062858f124318c6447
+Section: Tweaks
+Description: 解锁所有会员课程。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/3dbody.html
+Name: 3Dbody Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/3dbodysileo
+
+Package: com.lenglengyu.adguardpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.adguardpro.deb
+Size: 223576
+MD5sum: 351cb1d8d63ab54199662da2c9ba2a13
+SHA1: a580f3c8cc4ea279411c3c5dd83d6f877182e7dc
+SHA256: 37a3f7608a0e9d16d4aa1bd84a97b2d9ad396de4a2a415e90e1f4fb2a9203299
+Section: Tweaks
+Description: 解锁Pro会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/adguard.html
+Name: AdGuardPro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/adguardsileo
+
+Package: com.lenglengyu.albumcompress
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.albumcompress.deb
+Size: 136564
+MD5sum: 8832db936dda39167bfea77681cbad79
+SHA1: 068321f452fe15289ce8608a2c2ce1ecdd1a1940
+SHA256: 1eb47dd26d7724869981124bec2f243fd6903b48d3b54de20e861ded8911f743
+Section: Tweaks
+Description: 解锁Pro权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/albumcompress.html
+Name: 视频照片压缩大师Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/albumcompresssileo
+
+Package: com.lenglengyu.answeringmachinex
+Version: 1.2-32
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2313
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80), firmware (>= 11.0), com.yourepo.lly.crack
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: ./debs/com.lenglengyu.answeringmachinex.deb
+Size: 772178
+MD5sum: c232bdc20088d8cb9277b5edd99c96bd
+SHA1: 0f3d7cd0a78007c226957c8d63e613f94dba6db3
+SHA256: 6f8198ddf95bc7c79bd1b487b4dc47bfeab0437055f3a638f311c51064ce78c0
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Description: Receive voicemails on device!
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
+Name: AnsweringMachine XS破解版 (iOS 11/12/13)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.aquaboardx
+Version: 0.2-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 699
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11), com.yourepo.lly.crack
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Filename: ./debs/com.lenglengyu.aquaboardx.deb
+Size: 164150
+MD5sum: 1e2d63b96287c7f78e1e2fb9b8d43fc5
+SHA1: 765e39856d9b378b306c5261c4001d00a09ad2a3
+SHA256: 4cbae2cc4b0a447205bde3506341777091a325a218d18ce1b47d55a3004ca505
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aquaboardxDp
+Description: Amazing Water Effects On SpringBoard
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaBoard@2x.png
+Mainlibmd5: 6bb71404748366e3be910bdf5cc76555
+Name: AquaBoard XS破解版 (iOS 11/12/13)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.audiomack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 584
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.audiomack.deb
+Size: 147000
+MD5sum: cd88053b17c23059d52cc99004b2094e
+SHA1: ad2c8b1b80d672801ed093db54e4edb636f38c37
+SHA256: a01b41c171df2c4c0ff77e9b273ccff4c5c574be6762914d09d0cec15b244867
+Section: Tweaks
+Description: 解锁订阅会员权限，开启HIFI音效，去广告等等。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/audiomack.html
+Name: Audiomack Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/audiomacksileo
+
+Package: com.lenglengyu.autoanswerx
+Version: 0.2-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 757
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: ./debs/com.lenglengyu.autoanswerx.deb
+Size: 248120
+MD5sum: 28e7ecf17203893f91c35e1c8e01b93e
+SHA1: 163b524ecdd79da8b4dd7c6bce79c0514d310da7
+SHA256: 8b610fc20f900ac3b9abcc9552217fdf9303df9bbc8255f0cd2f1b1d584edd3f
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autoanswerxDp
+Description: Auto-answer any calls!
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/AutoAnswer.bundle/AutoAnswerXSettings@2x.png
+Name: AutoAnswer XS破解版 (iOS 11/12/13)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.autoeditpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.autoeditpro.deb
+Size: 224978
+MD5sum: 198cab74b633f440c865087391bb404b
+SHA1: da1258419698deba4b3336ef46fd19d34582d176
+SHA256: b2be06bfc9aada2e683009504ddbd1a4a206c09f271a3bddeeeb567358fa7753
+Section: Tweaks
+Description: 解锁Pro权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xyj.html
+Name: 小影记Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xyjsileo
+
+Package: com.lenglengyu.baobaoquan
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.baobaoquan.deb
+Size: 139836
+MD5sum: 17b2525f9bdec6c2fdca34f1a5848a15
+SHA1: 0e4056841d36607791bcaf486367e6ca328d3150
+SHA256: 432abbf79a872adcfec755a2724df757d85205f15726683ec655ff3dfa550930
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/baobaoquan.html
+Name: 刷圈精灵Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/baobaoquansileo
+
+Package: com.lenglengyu.bioprotectxs
+Version: 4.3-110
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2084
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.yourepo.lly.crack
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.lenglengyu.bioprotectxs.deb
+Size: 767784
+MD5sum: 085f91d71ade1d938eaf52c620aa1cc7
+SHA1: f9691ceeab0f7d638b792abf654672d36aeceef8
+SHA256: 02cfeb168e6f107a34b6bb149257faace97888f4b3c8dc6fa8cb4b8cda555410
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectxsDp
+Description: Protect your apps with Touch/Face ID!
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
+Name: BioProtect XS破解版 (iOS 12/13)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.bzypro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.bzypro.deb
+Size: 144360
+MD5sum: fbe4a25225ac40149c5954b17fd6520a
+SHA1: 13aeb650ac014805df9c9c29bf1d0e142d81bc62
+SHA256: bf65689d5269ecf683b5f010985a68caf9f1079ae0b6b4a6fac2e041d7df6142
+Section: Tweaks
+Description: 解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/bzypro.html
+Name: 白噪音Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bzyprosileo
+
+Package: com.lenglengyu.callbarxs
+Version: 2.3-75
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, com.yourepo.lly.crack
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.lenglengyu.callbarxs.deb
+Size: 409280
+MD5sum: 81b49889884c7efe5e333d4ad7a3b620
+SHA1: 45eb17f9dc4f544614afb9882b8ee76cb626639f
+SHA256: aee363af15856d5f7e0456a647a4563617bbe8a3c9f1fcbf11d85592f677e2e8
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callbarxsDp
+Description: Don't let incoming calls interrupt you!
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBar XS破解版 (iOS 12/13)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.cpudasher
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.cpudasher.deb
+Size: 138362
+MD5sum: e23b37614dde9fc46662bfdf4cdf233e
+SHA1: 24e10aa438cfcc7ee7a133c338b51c9ac747d1d0
+SHA256: a5a8e4778f42251d0e6a633b0382f28c61591dc1b5598d2561866a75b63a7ff1
+Section: Tweaks
+Description: 解锁专业版权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/cpudasher.html
+Name: CPU Dasher Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/cpudashersileo
+
+Package: com.lenglengyu.cutisanpro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 460
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.cutisanpro.deb
+Size: 110190
+MD5sum: 4c4b8780d9e434a8bef212ccc40cab74
+SHA1: f5e3711332e6d7731d9d969b56a210e4fc35fd87
+SHA256: aff0e08239da894825ab3305138a970913e4d0cd0ede0f72d0293096d7681631
+Section: Tweaks
+Description: 壁级制作(Cutisan)Pro，解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/cutisan.html
+Name: 壁级制作(Cutisan)Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/cutisansileo
+
+Package: com.lenglengyu.czjgs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 536
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.czjgs.deb
+Size: 144228
+MD5sum: e8e4ffe5a8ee4a55161b0bddc76a3409
+SHA1: df2e711c685f1458de5c53536654ea8ac187e6cb
+SHA256: 9edcd171ad5f15888ddf938724e8c91e83d7811a4d8208028257b24fb40f0cdb
+Section: Tweaks
+Description: 去启动广告，无限试听所有收费故事。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/czjgs.html
+Name: 村长讲故事Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/czjgssileo
+
+Package: com.lenglengyu.dqsjpro
+Version: 0.0.6-2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.dqsjpro.deb
+Size: 326972
+MD5sum: ec308fa7b227a417edccdc6b153e20d4
+SHA1: 28ab17169ecf4b0c5504476cc7ddac8eab7b2c0c
+SHA256: 3b32ecb947d6bbb7660526e8a94a1e9a3244dcbe14b10892a09f8374526daf14
+Section: 会员专区
+Description: 解锁会员权限，支持最新版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dqsj.html
+Name: 大千视界Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dqsjsileo
+
+Package: com.lenglengyu.dubbing
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 592
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.dubbing.deb
+Size: 149640
+MD5sum: 4d50e4b74a3ab14ba33a3040664a27a1
+SHA1: 469bec380cbcb3518e8e58eb6532d47d8bb6234b
+SHA256: 4213dc3abb0307e4229aa99f17ed7fda19116b256b2a773deae5862e3e4f5cc4
+Section: Tweaks
+Description: 解锁SVIP权限，解锁VIP视频。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dubbing.html
+Name: 英语趣配音Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dubbingsileo
+
+Package: com.lenglengyu.duzhepro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.duzhepro.deb
+Size: 133166
+MD5sum: 73ef92f69b47ecdac9ee75a8d9806d5d
+SHA1: d255f2d6c721a8a18cf7dac0fb7d1b4ea5cda338
+SHA256: f9b657b4013a55366e668a13041e55f290f6f69876cc69786dc9d8c74f6fa6e1
+Section: Tweaks
+Description: 无需会员，畅读所有故事。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/duzhe.html
+Name: 读者杂志Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/duzhesileo
+
+Package: com.lenglengyu.fakedw
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.fakedw.deb
+Size: 139426
+MD5sum: 1f577bcb2049bec86c02d478a44fa395
+SHA1: e32361409f4041a353e583a32dc06fd66a48d2f5
+SHA256: 47272d79a65aa29f8a0cd4f368a3f14b3c3e5035092f38ad1823c63bc1be095b
+Section: Tweaks
+Description: 解锁所有订阅小尾巴。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/fakedw.html
+Name: 朋友圈小尾巴Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fakedwsileo
+
+Package: com.lenglengyu.fakepicturehook
+Version: 1.5.2-7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 10412
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), com.yourepo.lly.crack
+Filename: ./debs/com.lenglengyu.fakepicturehook.deb
+Size: 4432984
+MD5sum: a36cbc315071e47b10af2dfd608f9231
+SHA1: e2d5cc1045045712615ae878a20156a7abc427d6
+SHA256: 84cfdcfe4aab70599d06e2612323a0b5c0640c47f5fd7b0cada5d98594cc4ee8
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakepictureDp
+Description: Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera
+    Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It's a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: lenglengyu <lenglengyu@126.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Dev: joebruce
+Name: FakePicture破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.fddspro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.fddspro.deb
+Size: 326966
+MD5sum: 7d259f9f42cfa74e26a5145e52de9ae0
+SHA1: 5ee3e73ff54afb4c518b2bcad6ce69a3aab957d6
+SHA256: e8dac2e0c9da24b5078338b679d10e6485eda5d7afb282e8b51a1219172aa83e
+Section: 会员专区
+Description: 解锁樊登读书会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/fdds.html
+Name: 樊登读书Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fddssileo
+
+Package: com.lenglengyu.fdxdz
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.fdxdz.deb
+Size: 137830
+MD5sum: 8ed597dc95d541e77a7b60023bb5c1d1
+SHA1: 709adeb1b528225a3fe5e9b835608ff6df859bf2
+SHA256: a8733c5399e522d2d0bada69c17da241222351c38f8ad5f4415a851d083df28f
+Section: Tweaks
+Description: 去启动广告，解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/fdxdz.html
+Name: 樊登小读者Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fdxdzsileo
+
+Package: com.lenglengyu.fmpro
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 536
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.fmpro.deb
+Size: 144490
+MD5sum: aedc5d3d7e85a77ae76a27b14f15d747
+SHA1: e4584aebc35d07099d8e29d29ad52bbf033508d6
+SHA256: 9e24fdb8858ee07d4417d445f8f5fee1eb09dffee3ca2730042c448c1b9201ae
+Section: Tweaks
+Description: FM收音机Pro，解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/fmpro.html
+Name: FM收音机Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fmprosileo
+
+Package: com.lenglengyu.geekscanner
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.geekscanner.deb
+Size: 143988
+MD5sum: 9879a7795df63255d884a954a1a88959
+SHA1: bf12c04ffd36ef6e2e4ef1807830d499306a669a
+SHA256: 79894540836e65a30581d9312e63fa0440633feb458cf5c66debaf671eab9eee
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/gksmy.html
+Name: GK扫描仪Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/gksmysileo
+
+Package: com.lenglengyu.gifzzqpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.gifzzqpro.deb
+Size: 144394
+MD5sum: 8f5d2bc692a1f8ff90ec782dbe744888
+SHA1: 361e1829f66d8ff5359884c61d7b34b1e75273b7
+SHA256: 7dab83a21e15f735f11ac4e005cc674583cf53ac61484958b28bca085ac596c9
+Section: Tweaks
+Description: 解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/gifzzqpro.html
+Name: Gif制作器Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/gifzzqprosileo
+
+Package: com.lenglengyu.gongmingpro
+Version: 0.0.1-7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.gongmingpro.deb
+Size: 133038
+MD5sum: 259e06bd163469e56e81a8aa976292dc
+SHA1: d2ebcbacd71e72c651177396a0d139896eb6ff45
+SHA256: 37ec8fcc655b8541f1e9c9414c0c38384ddfbd803707037dad971db777577e8f
+Section: Tweaks
+Description: 解锁终生会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yiyan.html
+Name: 一言Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yiyansileo
+
+Package: com.lenglengyu.gushihui
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.gushihui.deb
+Size: 133128
+MD5sum: 9a1072ec8adeb6fd7158477d17b6044c
+SHA1: bcd30d2f67c5c38dfd579a714816a61d628c60e9
+SHA256: 8c7f8b52568091623fbdbd4a2f1690fc65bff5ac5bf5b67baedad5c6cbd98585
+Section: Tweaks
+Description: 无需会员，畅读所有故事。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/gushihui.html
+Name: 故事会Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/gushihuisileo
+
+Package: com.lenglengyu.hlwshook
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: lenglengyu@126.com
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.hlwshook.deb
+Size: 134654
+MD5sum: 7652c4a6ac06fee713107da790298e98
+SHA1: 09a558c33661663c4bbe37688c9a687fefe11816
+SHA256: d8f4d182979c022300ac75533b1f7a513df8d6be2e0a677569f0646969c3aa69
+Section: Tweaks
+Description: 幻麟微商完美破解，所有功能完美解锁。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/hlwshook.html
+Name: 幻麟微商破解
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/hlwshooksileo
+
+Package: com.lenglengyu.hookant
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.hookant.deb
+Size: 148288
+MD5sum: 7b249982ae09ea10764ed79de6ec8dd5
+SHA1: 2fabbfa4c08f6010f3b6e5248b9cbaab5080fccb
+SHA256: 11d3503fbfc5aa219cd680d1ba6ca7aadcc1598e8693286bf4c9eddde3c56f67
+Section: 会员专区
+Description: 解锁无限流量。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/hookant.html
+Name: 蚂蚁加速器Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/hookantsileo
+
+Package: com.lenglengyu.hpyybpro
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.hpyybpro.deb
+Size: 223698
+MD5sum: 5f7af2882da631af7c4f6e160656a7cc
+SHA1: 113336dac976532d91fe86b2557ddc60e87d7c5f
+SHA256: a42ef2999f16deddb63053775860b51194f5c5ef7d33e88fbbe877d06be66628
+Section: Tweaks
+Description: 去除启动广告，解锁所有语音包。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/hpyybpro.html
+Name: 很皮语音包Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/hpyybprosileo
+
+Package: com.lenglengyu.inspro
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.inspro.deb
+Size: 421164
+MD5sum: dcfae446417873c11ada6c6b7456d5c9
+SHA1: 97ca3e970f8197dcbbaf5e800f80e731a67ab8de
+SHA256: e828966cc0ff8b6ea38697f79927b3a4aa1a92e26e7c8b723c45cb26cd224fb1
+Section: 会员专区
+Description: 解锁写真会员、视频会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ins.html
+Name: 零度Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/inssileo
+
+Package: com.lenglengyu.ivodpro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ivodpro.deb
+Size: 221422
+MD5sum: c7acc64a70a62942be2918a0a1aa5ae1
+SHA1: 2af58dc2133417ffb05a0d5fd4d7036ecb22f131
+SHA256: 9b370359963e4ac796080ee91828da9ae5c3c1263f99fa204e8141a7c06f1f45
+Section: Tweaks
+Description: 解除Pro权限，具体看图。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ivodpro.html
+Name: iVOD-全格式万能播放器Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ivodprosileo
+
+Package: com.lenglengyu.jxyypro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.jxyypro.deb
+Size: 143166
+MD5sum: 935c0ec7009dd2524203e94dbe26fb7c
+SHA1: 849aaa611f833cdcf0e14d16d292c81e31abb61f
+SHA256: 5379768a40b5db44505f96c97bf2b65f4113da0527a8c85cdd9d7cc93b7bf178
+Section: Tweaks
+Description: 解锁付费课程。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/jxyy.html
+Name: 匠心演绎Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/jxyysileo
+
+Package: com.lenglengyu.kiddubbing
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 588
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.kiddubbing.deb
+Size: 149498
+MD5sum: 4a6da163ad3f70baff9d33f4e67e3818
+SHA1: e64c110fc516865dc3c8f64ccaaccf58c6d00101
+SHA256: e8ff5e29c403437bc1b52d3f6458020b1ca3542110ae92b7301aa8687cf98553
+Section: Tweaks
+Description: 解锁SVIP权限，解锁VIP视频。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/kiddubbing.html
+Name: 少儿趣配音Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/kiddubbingsileo
+
+Package: com.lenglengyu.killads
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate, com.ps.letmeblock
+Filename: ./debs/com.lenglengyu.killads.deb
+Size: 1844
+MD5sum: 5a86776da11165b0242a505a3aee2c3d
+SHA1: 876877c45997a3f880e3e018b237f37180355838
+SHA256: 7235fede5c07ed2ff549d2557937a07099252d8400c2e584d8d8db41fd00752f
+Section: Tweaks
+Description: 屏蔽广告，直接替换hosts，屏蔽广告服务商端口。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/killads.html
+Name: 屏蔽广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/killadssileo
+
+Package: com.lenglengyu.kpoint
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.kpoint.deb
+Size: 139486
+MD5sum: 67d60bf972712a4ac80c90b3c81937e9
+SHA1: 0e6b6cd3ee21d70eebe45c7e65556ef6b387278e
+SHA256: 51cd8f518b04a1ab489e0cb7c61db3413b1631631a7507b4d29c5a33651a93d0
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/kpoint.html
+Name: 卡点特效Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/kpointsileo
+
+Package: com.lenglengyu.lianzidashi
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.lianzidashi.deb
+Size: 144356
+MD5sum: ac0e9f1ad0f363be09af493eee8e65fd
+SHA1: 1e645d1199b05a4cfa194684e82aabbbd3ae2fc1
+SHA256: 7512fb66237653a502a2ea3d782038e7a9b2e4099e6332faf22e2dc55427e211
+Section: Tweaks
+Description: 解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/lianzidashi.html
+Name: 练字大师Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/lianzidashisileo
+
+Package: com.lenglengyu.mifitnoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.mifitnoads.deb
+Size: 139876
+MD5sum: b3995c598a8e4fa235ce1524fc71a8b9
+SHA1: 45957bf04ec06d68ef9db8f3aaae103c3518d943
+SHA256: 0c0319df03c2f939425ad4274118ca0df96aacbd28785feb2e33c99599bf02f7
+Section: Tweaks
+Description: 去启动广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/mifit.html
+Name: 小米运动去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/mifitsileo
+
+Package: com.lenglengyu.mingsafe
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.mingsafe.deb
+Size: 139704
+MD5sum: 794d1d2b2169fd9183a1ada8542237c3
+SHA1: db1256eb030b57405cf4c9e2703101287fe2da41
+SHA256: d687f4b23dda38e39c1d299d7dddcfb78c60d3026565b633bb8882b1c6f6f88a
+Section: Tweaks
+Description: 解锁会员权限，无视容量提示，有多少传多少。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/mingsafe.html
+Name: 加密相册管家Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/mingsafesileo
+
+Package: com.lenglengyu.momobdcpro
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.momobdcpro.deb
+Size: 221854
+MD5sum: 79ac620b90a765bbfc5e2b158c5feaab
+SHA1: c12e38787818dfa155a3b812b861f62cbd2b8427
+SHA256: 5ea481e694a5cf6b61206dfa05af75efbd74b40611898a1c353a8ca5a805b8e1
+Section: Tweaks
+Description: 去除每日单词上限总量。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/momobdcpro.html
+Name: 墨墨背单词Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/momobdcprosileo
+
+Package: com.lenglengyu.nowpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.nowpro.deb
+Size: 136108
+MD5sum: d96fb623d7353ceb1cd85c7528554972
+SHA1: 7b37716dfbb8ba87cb5a53611e641044c52d7d82
+SHA256: d9ff9ddd89c3f136099bd029bc4245baf81da1df0779c9cd43d723ca81452568
+Section: Tweaks
+Description: 解锁所有VIP音频。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/nowpro.html
+Name: Now冥想Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/nowprosileo
+
+Package: com.lenglengyu.ppnote
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 536
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ppnote.deb
+Size: 144298
+MD5sum: b6cc7a12dc11babcb094d7bc17f27a8c
+SHA1: a3db2a22ef52a21abad2ff221627d0e2dcd2602b
+SHA256: 2a87034b10f093da4d68db4059f15e8eef0736b8b55c3683872f31ffc72defbf
+Section: Tweaks
+Description: 解锁会员权限。会员需付费的素材，无解。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ppnote.html
+Name: 时光手帐Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ppnotesileo
+
+Package: com.lenglengyu.pyqzsq
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.pyqzsq.deb
+Size: 145754
+MD5sum: 3722032fb3343a61311a2d3a2fba9d3d
+SHA1: 597dd1c85e84d8f991a212fe94ce44a9460198fe
+SHA256: e5652bcee52dc1b132629549c48e27546b05274dad94ee59b4442b2607d9bd88
+Section: Tweaks
+Description: 去除所有广告，去除水印。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/pyqzsq.html
+Name: 朋友圈制作器Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/pyqzsqsileo
+
+Package: com.lenglengyu.qhgysnoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.qhgysnoads.deb
+Size: 166334
+MD5sum: 426c2566c0f6eafdc4e077b4432c3c18
+SHA1: ab81ebdf1fbf8d1185b3d866df96aa725760d345
+SHA256: b8db469011d87097ea953cef11c3e0dd633b075f83a6898d183dad48e69362cc
+Section: Tweaks
+Description: 去启动广告，播放广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qhgys.html
+Name: 青黄瓜影视去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qhgyssileo
+
+Package: com.lenglengyu.qmxspro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.qmxspro.deb
+Size: 144272
+MD5sum: 1faf31e67bf2491369156c30fb967dd8
+SHA1: 8b09a014c3b2fee831b17bc270b21207150cc9f8
+SHA256: 2da0d2b93c336c0dd84b7fa1d60a49f48858756cc0c59838e093de57115b2a6f
+Section: Tweaks
+Description: 全民小说Pro，解锁会员权限，具体看截图。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qmxs.html
+Name: 全民小说Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qmxssileo
+
+Package: com.lenglengyu.qsjtwpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.qsjtwpro.deb
+Size: 138852
+MD5sum: c51e3d671112df88a0d99208fab6de3a
+SHA1: 8d615f3192a2ea8219bd1c225e7857540a2dba2c
+SHA256: 37db3adc7673e18d3be11a4882215ee45baaeda99780f61304bd5641ab9ef19a
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qsjtw.html
+Name: 轻松截图王Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qsjtwsileo
+
+Package: com.lenglengyu.qtfmpro
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.qtfmpro.deb
+Size: 326816
+MD5sum: a975696f77f8288a5bc8f1219d2ba573
+SHA1: 6da7625155dd7b890bd28335b6f2adc3df7fbbf2
+SHA256: 742fbc08ae2eeaaf4a3f09308e7c6f95c6567fdc5cea47b2a63b3fd876551936
+Section: 会员专区
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qtfm.html
+Name: 蜻蜓FM Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qtfmsileo
+
+Package: com.lenglengyu.quvideo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.quvideo.deb
+Size: 143580
+MD5sum: 58066a335a3a9813e322bc49778f59dd
+SHA1: 4ec3e351f473402070034224e4817b92d8747478
+SHA256: 0a1662aed74c9bb47ccd8dea09b27a8ba6c3200a84321dde9af428b4a0ca2e9e
+Section: Tweaks
+Description: 无需会员，解锁所有会员模版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/quvideo.html
+Name: 趣影Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/quvideosileo
+
+Package: com.lenglengyu.qzspwxk
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.qzspwxk.deb
+Size: 222808
+MD5sum: 471d0ce4fed2c0039996db861b9346f0
+SHA1: fdd1c92e2a07a21adc295bd400f9b63508ce7c38
+SHA256: 013221ba63b360601cae2241010e0dd033f03355caa4f2fa85d379adbe9ef096
+Section: Tweaks
+Homepage: http://gerqw.qzav4.com/?share=ZVc0MX
+Description: 茄子视频无限看(免费福利)，点击"更多信息"，下载app。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qzspwxk.html
+Name: 茄子视频无限看(免费福利)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qzspsileo
+
+Package: com.lenglengyu.recshotpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 516
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.recshotpro.deb
+Size: 143894
+MD5sum: 8e89bddb66b20b7e06756fa145aaec2c
+SHA1: c4f34a6438b025e6f9e851b3a1431019b6e94a6a
+SHA256: 22ecd0b41d2533741e25a982482af4e4c02ccbf8076eb5c447536616bf224e6e
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/recshot.html
+Name: RecShotPro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/recshotsileo
+
+Package: com.lenglengyu.ringtones
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 612
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ringtones.deb
+Size: 155620
+MD5sum: 2020fd3dd539e2d16486e45c2a1fe2c5
+SHA1: e5a779ad421db5e23fa3f87c4ea4c1208e5cc0ba
+SHA256: 35f3dbf27f422abab34b21664536638e5a119f8a88a2f5728197d8d3f4da9709
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ringtones.html
+Name: 铃声和动态壁纸Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ringtonessileo
+
+Package: com.lenglengyu.rockfit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 536
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.rockfit.deb
+Size: 135830
+MD5sum: c5654325accef8835898d5d3ea33c7fc
+SHA1: 90d40b71353293dd92b0300af00f58721b2c016c
+SHA256: cade1f6201611c92f05322146b542f49b54f8fb647b5b03fe2e88720bb30cc0a
+Section: Tweaks
+Description: 解锁所有会员课程。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/rockfit.html
+Name: 即刻运动Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/rockfitsileo
+
+Package: com.lenglengyu.rollcappro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.rollcappro.deb
+Size: 138344
+MD5sum: 25d423b7bc2e6f433a63925d883288c8
+SHA1: f196fb4caca2c0c476663b0dabbc96f2b6ed51a3
+SHA256: 9dc945a6549d88039bea16ddabd24bc0a91b9a976847cc084f4d3cd9489d904e
+Section: Tweaks
+Description: 另一款滚动截屏，解锁专业版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/rollcappro.html
+Name: Rollcap Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/rollcapprosileo
+
+Package: com.lenglengyu.scljy
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.scljy.deb
+Size: 1028
+MD5sum: 22e7c9e03ba2ba9c1975623b799c655c
+SHA1: 87a08378156ead2f584aa65d234b16470eb261f4
+SHA256: 0171a53e885acb6e8bba9cfce82c54efbd6aaea6055dbf2cb577f63014fe6e4b
+Section: Tweaks
+Description: 先删源，再安装这个，删除完成后这个也可以删了。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/scljy.html
+Name: 删除垃圾源残留
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/scljysileo
+
+Package: com.lenglengyu.scsbspro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.scsbspro.deb
+Size: 144388
+MD5sum: 22727f6316dbf97cdfca81b124872454
+SHA1: c343402e5c296d167b8e579e4092556c55078f7c
+SHA256: 99b8978889ececbb384b672222cb09c872cbb900cd6962706a6d6b11fd58e7b4
+Section: Tweaks
+Description: 解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/scsbspro.html
+Name: 宋词三百首Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/scsbsprosileo
+
+Package: com.lenglengyu.sipaitv
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1180
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.sipaitv.deb
+Size: 335772
+MD5sum: 492a5f9b3136a188fc6fc4152b50635c
+SHA1: 7e32269f49d43708cbc83994230a967bd2796ea0
+SHA256: 48c5711eef5e5e0540ba1d1e778a55de1a84ef8355e11aed5360cdd24de2d68e
+Section: 会员专区
+Description: 各大主流视频APP会员视频解析。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/sipaitv.html
+Name: 私拍TV Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/sipaitvsileo
+
+Package: com.lenglengyu.smartcleaner
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.smartcleaner.deb
+Size: 133266
+MD5sum: 2c8040c8ef4ea47f4c8c0b7b2d821370
+SHA1: 1cd5bbe6c440c80fbb6f53216257d4c4a3c0fffc
+SHA256: 3dbbcec5f9fa52a49f2da44d933051c2ea7da9e499f63b73429d0f90b7436752
+Section: Tweaks
+Description: 解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/cleaner.html
+Name: Smart Cleaner Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/cleanersileo
+
+Package: com.lenglengyu.smarttapx
+Version: 0.3-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 725
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.yourepo.lly.crack
+Conflicts: net.limneos.smarttap
+Filename: ./debs/com.lenglengyu.smarttapx.deb
+Size: 201992
+MD5sum: bba213180c8677167da7020f49aca520
+SHA1: b0ac411767566ac8f94298a70e34ce2cc87aff3f
+SHA256: 668d54f2678192636d36b7030835390403de1eacc596c8b0e5be475e4ac2a90a
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smarttapxDp
+Description: Turn on the screen by tapping it!
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/SmartTapSettings.bundle/SmartTapSettings@2x.png
+Name: SmartTap XS破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.ssshotpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ssshotpro.deb
+Size: 138076
+MD5sum: 2aaf9a2c5f5c00ab8aa9d5b4b5666bad
+SHA1: 455457f7da30f15afe701e560b953859ab18c3a7
+SHA256: 86064919d1bae5181e9b6ebfd77805a219035cdfbecd566fddc700fdffc7b73b
+Section: Tweaks
+Description: 解锁标准版，移除保存限制。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ssshot.html
+Name: 滚动截图Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ssshotsileo
+
+Package: com.lenglengyu.syjfmpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.syjfmpro.deb
+Size: 133388
+MD5sum: cfa7feca4fb51dfa66fcbce224fc497c
+SHA1: 5706850c35c9aedad10573819f0b0c1a72b84147
+SHA256: 2a4c66b02c14e452290b186203af3c62367fb38cd93189cfbd999f78ac92836e
+Section: Tweaks
+Description: 听广播电台、听广播剧、听有声小说，已解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/syjfmpro.html
+Name: 收音机Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/syjfmprosileo
+
+Package: com.lenglengyu.tempopro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.tempopro.deb
+Size: 142624
+MD5sum: 91b6700051bb7e294a76de4effbc600a
+SHA1: 0a608d83a6a908fa6d0fce10c98f5aa666fb4b6b
+SHA256: 0fd87358ae8d248f6f2c23ca0740b0355a2f18f61d7817d0aeac76b1dec6d828
+Section: Tweaks
+Description: 解锁Pro权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/tempopro.html
+Name: Tempo Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/tempoprosileo
+
+Package: com.lenglengyu.tingshu
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 552
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.tingshu.deb
+Size: 140432
+MD5sum: 8fd2d665bc055ad45d2ac631cebef3f3
+SHA1: 13dd38396428e3bc5cb3931a4cd7067c3544888b
+SHA256: 3cfb7d0a10c0a1ae79a87768aba8d2296380f0948d4c33424045eab89f3d6a4b
+Section: Tweaks
+Description: 去启动广告，解锁付费小说，解锁缓存权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/tingshu.html
+Name: 有声小说Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/tingshusileo
+
+Package: com.lenglengyu.voicechangerx
+Version: 2.2-51
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1421
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, com.yourepo.lly.crack
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.lenglengyu.voicechangerx.deb
+Size: 456536
+MD5sum: 0f7fbe9ae1f1011cc223c20386189e9b
+SHA1: a1f238f4091efee78f5dc86a2b1ab774c0974272
+SHA256: e4ec329f845d4647aeba45bf67fc1feb4d314187170e92d56cf9d73348737dda
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=voicechangerxDp
+Description: Change your voice during a call!
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/crackit.html
+Dev: limneos
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Name: VoiceChanger XS破解版 (iOS 11/12/13)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/crackitsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lenglengyu.wechatipad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.wechatipad.deb
+Size: 139030
+MD5sum: 96fcd9796c1d9cc42b3684e752b8992e
+SHA1: 7d96bec4b3bd4d32253fa2f8c42368e5305c4e2a
+SHA256: 156a56f40ae5fc91984f3d2f7f5bd74f38f8cc3c2c2c560cea58b20e6bd8e19e
+Section: Tweaks
+Description: 本插件可以彻底把微信伪装成iPad客户端，功能全部与iPad微信客户端一样，可以实现一个微信号在两个手机登陆。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/wechatipad.html
+Name: 微信伪装iPad客户端
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wechatipadsileo
+
+Package: com.lenglengyu.windy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.windy.deb
+Size: 138418
+MD5sum: 256845211bad20e760ba01cbb778f867
+SHA1: de36d53b8f96cce7d8567fc1536c3f2bcb580b51
+SHA256: 6fd84c072b5b41243532433943565585e2e41ada194271ef9fcd531a6856a1fa
+Section: Tweaks
+Description: 解锁专业版权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/windy.html
+Name: Windy Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/windysileo
+
+Package: com.lenglengyu.wyyxnoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.wyyxnoads.deb
+Size: 139134
+MD5sum: 43b41e290c996c9e2dea29a7d712bbe1
+SHA1: 0438ac34fafec93e6ab1cf20efe2315ce50f9130
+SHA256: 6b55e8946c81af51d1f37c5dd54058f806da572dd993d8c697226ed1356bb919
+Section: Tweaks
+Description: 去除启动广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/wyyxnoads.html
+Name: 网易邮箱大师去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wyyxnoadssileo
+
+Package: com.lenglengyu.xjdcpro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.xjdcpro.deb
+Size: 144382
+MD5sum: 1e26cd896a7b13fb128533f167e69b0e
+SHA1: 568f0888bad0c8bcdb20e6ea673ac320247f1f79
+SHA256: 38b1fddd9739de33f126a26f3afe82eccfb12edba2fbef12908de48db11a498d
+Section: Tweaks
+Description: 解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xjdcpro.html
+Name: 香蕉单词Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xjdcprosileo
+
+Package: com.lenglengyu.xmlyetpro
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.xmlyetpro.deb
+Size: 326640
+MD5sum: 1eb92ac87250eb021de1e6506e57d6a1
+SHA1: afeae96a2ff7c856bda05217adb90b4989216feb
+SHA256: f2e701eaac9e183404b7a4f62a1cc66d7174cb13c643fb97362d50f125641888
+Section: 会员专区
+Description: 解锁喜马拉雅儿童VIP会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xmlyet.html
+Name: 喜马拉雅儿童Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyetsileo
+
+Package: com.lenglengyu.xmlypro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.xmlyprodeb.deb
+Size: 326650
+MD5sum: 9196e7b282ecc53a00bd9d5a7269b89a
+SHA1: c677533680e7f13b959dfbc6ff33d2d61e711924
+SHA256: 91ffbd1e7da8eeeb324a4302823261ac08d5fcd66d189ca305e946451d80c1d3
+Section: 会员专区
+Description: 去启动广告，去越狱检测，解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xmly.html
+Name: 喜马拉雅Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlysileo
+
+Package: com.lenglengyu.yilin
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.yilin.deb
+Size: 133152
+MD5sum: 0381214b01ffa6f45f5c2f92a296d89e
+SHA1: 7e78f6938730aef0a6b593b22bdbd8b497b59fdb
+SHA256: 7d33afe94ce72aa01ad021692b8fcc27ed4ad024c602efcb984035ceaf35b4b7
+Section: Tweaks
+Description: 无需会员，畅读所有故事。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yilin.html
+Name: 意林Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yilinsileo
+
+Package: com.lenglengyu.ymlm
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 1180
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.ymlm.deb
+Size: 335800
+MD5sum: b67b750592fa60aee0f2c2ce40ebbe57
+SHA1: 9cdfbfded74e8bf423265a46640002aa310c32dd
+SHA256: af4d245b3ae3fc0860156a6a4a6572d2dd45dfbe9e476cdbd7e89a993c85f5cb
+Section: 会员专区
+Description: 各大主流视频APP会员视频解析，解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ymlm.html
+Name: 影迷联盟Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ymlmsileo
+
+Package: com.lenglengyu.youdaonoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 548
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.youdaonoads.deb
+Size: 138478
+MD5sum: 83142458be2bffaccad65fb6edf89665
+SHA1: 0389c29730c9e48e22634bfe18b32255ec91eb36
+SHA256: 090bc40982e108f33d131961292384606523a214e568a1a9df3dd0b88512187b
+Section: Tweaks
+Description: 去除启动广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/youdaonoads.html
+Name: 网易有道词典去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/youdaonoadssileo
+
+Package: com.lenglengyu.yuantb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.yuantb.deb
+Size: 36834
+MD5sum: d231830b54094a7a6fe8e9f38267a65c
+SHA1: 9bd2df14b635e1e87bee66054c9c0e5deb5dbb15
+SHA256: 2de2eee35498a5922380c13ccabea732027edb60d12cf971128d92351834c3b4
+Section: Tweaks
+Description: 纯美观，可装可不装。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yuantb.html
+Name: 源图标
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yuantbsileo
+
+Package: com.lenglengyu.yunmeishe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.yunmeishe.deb
+Size: 110842
+MD5sum: adc6b40c972f0297071266e7dca7eab2
+SHA1: edc76c32a72c44afaa29449be48d9dbdb8917439
+SHA256: 99c5060927ceeeaba703f43c7eff05ba1d64dafff42e798b8e89afc615ae5aa0
+Section: Tweaks
+Description: 云美摄Pro，解销会员、企业会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yunmeishe.html
+Name: 云美摄Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yunmeishesileo
+
+Package: com.lenglengyu.yzsdynoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.yzsdynoads.deb
+Size: 225616
+MD5sum: eb97e25ab0b0bcb65b4f8a4edc90ef50
+SHA1: 1b25c1ab4c5e3512adbfd011b7de92e021d27ae3
+SHA256: 66c9bf355ae55d5a3d7d616360e18ad4e2e21a2593daf1b2103035e74b9117ef
+Section: Tweaks
+Description: 去启动广告，播放广告，暂停广告，结束广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yzsdy.html
+Name: 油纸伞电影去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yzsdysileo
+
+Package: com.localipastore
+Version: 1.5-1x
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.localipastore.deb
+Size: 71008
+MD5sum: ae89aebb1c7a0c8134a0e628414b34a2
+SHA1: 31f7046f33e2b0635f5f9c24e261b02673ef5bc4
+SHA256: eabcbded9ba77d7f172ecc3bd6a126e8a6ca05871cf63158c24199fb7338fb80
+Section: Tweaks
+Description: 内购破解.
+Author: anondev
+Depiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStore.html
+Name: LocalIAPStore 内购破解
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStoresileo
+
+Package: com.locaspritihook.app
+Version: 4.60
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 34211
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), com.yourepo.lly.crack
+Conflicts: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree, app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, rwx.appvv, app.weiphone.sxtb.rwx, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
+Replaces: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree,app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, app.weiphone.sxtb.rwx,rwx.appvv, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
+Filename: ./debs/com.locaspritihook.app460.deb
+Size: 15761674
+MD5sum: 1e58a0f5cc76d86f484f2365de91cc0e
+SHA1: 54c6063fc1e3a4070fe47371b7d5b179e5b59f56
+SHA256: 205360991608425fd19522165b4f9c06c30e62d208ef03fd3343eb83ac576c70
+Section: 会员专区
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locaspritiDp
+Description: 心行是一款虚拟定位软件支持伪装地理位置。免费试用,支持导航和直线双扫街核心，
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: locaspriti <locaspriti@163.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/wzsxx.html
+Dev: tinyapps
+Icon: file:///Applications/locaspriti.app/AppIcon29x29@2x.png
+Name: 位置随心行(虚拟定位专用)世界任我行,天下游不停,易天行,神行者,Fake GPS,筋斗云
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wzsxxsileo
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.locaspritihook.app
+Version: 4.61-2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 34211
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), com.yourepo.lly.crack
+Conflicts: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree, app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, rwx.appvv, app.weiphone.sxtb.rwx, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
+Replaces: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree,app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, app.weiphone.sxtb.rwx,rwx.appvv, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
+Filename: ./debs/com.locaspritihook.app.deb
+Size: 15723298
+MD5sum: f407a40bcc17166790b09c6291a8ffb5
+SHA1: 4099e539c0b80bfe9c9e916421a9494482572dd4
+SHA256: 991ea0d965c896dfe1967ad1d7f9ae4b391c16febcb65f96e18a4723ed62b48f
+Section: 会员专区
+Description: 位置随心行是一款虚拟定位软件支持伪装地理位置。免费试用,支持导航和直线双扫街核心。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/wzsxx.html
+Icon: file:///Applications/locaspriti.app/AppIcon29x29@2x.png
+Name: 位置随心行破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wzsxxsileo
+
+Package: com.locationhelperhook
+Version: 5.3.10-7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 10101
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2), com.yourepo.lly.crack
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, me.liuming.LocationExpert, topme.ios.FakeGps, apt.tinyapps.location360pro
+Filename: ./debs/com.locationhelperhook.deb
+Size: 4204410
+MD5sum: 051de29a2052adab1d1590ec2e669556
+SHA1: 35bc546408ea9bea0dbb5c7bae3d36283ae988c1
+SHA256: 7edf7b7ed2c43fcf3ef016152394b8c0e095ea8b3d90318e71b00130b1325c13
+Section: 会员专区
+Description: 轻松修改微信、QQ、支付宝、朋友圈、微博、陌陌、百度、高德位置信息，玩游戏、企业钉钉打卡、360度撩妹必备。仅供会员测试体验，如有能力请支持正版。如需购买会员，请加微信:lengyu1983。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Icon: file:///Applications/LocationChanger.app/AppIcon29x29@2x.png
+Name: 虚拟定位助手破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.memorado
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.memorado.deb
+Size: 21308
+MD5sum: cb95aeb4662d603d4650346e7b9420ce
+SHA1: d54bb9e36dba3fca13e659233d42263b2421a8bd
+SHA256: 894dd7fb8e978e695a0119a3afb4a3a92554dca3a3809c98898f49a46df2e907
+Section: Tweaks
+Description: 解锁会员权限。客户端appstore下载。解锁会员权限。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/memorado.html
+Name: Memorado Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/memoradosileo
+
+Package: com.videodownloaderhook
+Version: 2.5.3-8
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 716
+Depends: mobilesubstrate, com.yourepo.lly.crack
+Filename: ./debs/com.videodownloaderhook.deb
+Size: 4447024
+MD5sum: 8a78d40f82cd701669b8c1ddc4275020
+SHA1: ec88b08f430f0a5dbe6c2e9792649f58137c0bcd
+SHA256: a3faf9c1255cbb9e464757e968b7c9a5a6b2572261dc5dc8327f6a8cf5b8dd88
+Section: 会员专区
+Description: 网页视频下载器破解版，仅供会员测试体验，如有能力请购买正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zsyx.html
+Name: 网页视频下载器破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zsyxsileo
+
+Package: com.yourepo.lenglengyu.fastview
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lenglengyu.fastview.deb
+Size: 11358
+MD5sum: 99fc9b8a05e4e3a68d95ddb3ecc68b00
+SHA1: 6121354604b1ea4b62b37b86a9fd40c2ca3f16b8
+SHA256: bfd51d1653c9c4f8080b61aeac2753653ed2f44c33f25ebeecae89c0faf69152
+Section: Tweaks
+Description: CAD看图王，去广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/cadnoad.html
+Name: CAD看图王去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/cadnoadsileo
+
+Package: com.yourepo.lenglengyu.finevideo
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lenglengyu.finevideo.deb
+Size: 15008
+MD5sum: 2a9f179f544b8177e5e760c808fb7420
+SHA1: ae0261669f621384f8b7cab24a26ad9186c34e95
+SHA256: d2ebc60296bb0271d5e3d854bac84f0d419d7d7119fe4e20440cae5835c02977
+Section: Tweaks
+Description: 指尖特效，解锁会员权限。客户端appstore下载即可。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zjtx.html
+Name: 指尖特效Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zjtxsileo
+
+Package: com.yourepo.lenglengyu.luqi
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lenglengyu.luqi.deb
+Size: 17846
+MD5sum: ff128a832b3c126008ca3b25a54f5236
+SHA1: 69372bbc662d21fe803e5e686ccec3f3df3aea82
+SHA256: 85745b178753a7e33b37a74ef7374ae124b4e7518303732b761ec68c8d977f2d
+Section: Tweaks
+Description: 陆琪讲故事，解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/lqjgs.html
+Name: 陆琪讲故事Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/lqjgssileo
+
+Package: com.yourepo.lenglengyu.mp3editor
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lenglengyu.mp3editor.deb
+Size: 14330
+MD5sum: 1f54885bcb04408245365921fe97a762
+SHA1: 30c31034704667adb2faa267b0b0db2640f3705e
+SHA256: 8a3d30364097a8031c2306b93d7c08f28bea0961d91b9ecef50aca0ff17a46f3
+Section: Tweaks
+Description: 音乐剪辑 - 手机铃声制作 - 音频编辑大师，解锁Pro会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yyjj.html
+Name: 音乐剪辑Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yyjjsileo
+
+Package: com.yourepo.lenglengyu.videodownloadercn
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Ken <yuenkinken@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lenglengyu.videodownloadercn.deb
+Size: 304370
+MD5sum: 4869e13305c67ec4376a0d174380d4e7
+SHA1: 30e0e0e5dc04994eceb37973ea9ec01d680aa5d6
+SHA256: c32ce7964782e2ebffd3b694a1c35b22df403b137dc3aa1399aad32d89538404
+Section: Tweaks
+Description: 允许App内短视频下载保存到本地。由Ken编写。作者没适配A12，由本人适配。
+Author: Ken <yuenkinken@icloud.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/videodown.html
+Name: VideoDownloaderCN
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/videodownsileo
+
+Package: com.yourepo.lenglengyu.weiphonenoads
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lenglengyu.weiphonenoads.deb
+Size: 28182
+MD5sum: c4d2c345dee29fd05a34dfdb546b6015
+SHA1: bbefbd118e2e7cd45ac545bcf4d25d3eeaeb5eef
+SHA256: 0c2f24c71172c49163a08edb692512580e8d9175d0dbca86e26e5f900052a839
+Section: Tweaks
+Description: 去除最新版威锋启动广告、贴间广告。
+Author: lenglengyu <lenglengyu@126.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/weiphone.html
+Name: 威锋去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/weiphonesileo
+
+Package: com.yourepo.lly.adsspee
+Version: 1.0.4-3
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 876
+Depends: mobilesubstrate, applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.yourepo.lly.adsspee.deb
+Size: 204674
+MD5sum: ecb08a96047c36cf16e65cc0e575e9d5
+SHA1: 0991c44bc707a97dd7c816cc9e2fda9b01ab7d7c
+SHA256: 08a70aed546b67561ef2800621a8a944104096168e776df831701caff9c8d470
+Section: Tweaks
+Description: 快速跳过视频广告，奖励正常领取。快速跳过视频广告，奖励正常领取。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
+Name: VideoAdsSpeed
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
+
+Package: com.yourepo.lly.afakerxhook
+Version: 2.0-5
+Architecture: iphoneos-arm
+Maintainer: lenglengyu@126.com
+Depends: mobilesubstrate, com.yourepo.lly.crack
+Filename: ./debs/com.yourepo.lly.afakerxhook.deb
+Size: 149570
+MD5sum: 105012acc7b51e11d80e6997af1225ce
+SHA1: 7806c68900788a05ada7c9353dcfc963a1ee94fe
+SHA256: d67394df79c455aef6cea911a62c6a1f2cec92752767721731c4954311e6f4a3
+Section: 会员专区
+Description: AFakerX破解版，仅供会员测试体验，如有能力请支持正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/afakex.html
+Name: AFakerX破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/afakexsileo
+
+Package: com.yourepo.lly.american
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.american.deb
+Size: 142292
+MD5sum: 58c7d276bf525bf07e7f2ff09fb09307
+SHA1: d6f7923dfb351fade3444af9e22353cf081bffb0
+SHA256: f632118eb8734ac68ee6bc28195c389012aa4b37559b2b8db755558dd48d1054
+Section: Tweaks
+Description: 英语口语7天乐，解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yykyqtl.html
+Name: 英语口语7天乐Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yykyqtlsileo
+
+Package: com.yourepo.lly.awe
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.awe.deb
+Size: 25898
+MD5sum: 6d2f5e6b07ffdbe9eb670273032e39f9
+SHA1: f3bb9a1fc6b30a31eae654839ee12490552788f5
+SHA256: fd0b4eb81e630761a321b9bc9b496c08738571ecd4e2533e5be454ecbf30002c
+Section: Tweaks
+Description: 抖音去水印，适用最新版本。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/douyin.html
+Name: 抖音去水印
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/douyinsileo
+
+Package: com.yourepo.lly.bdnetdisk
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.bdnetdisk.deb
+Size: 13674
+MD5sum: ade4e7b7605518e98021b5d2dd9c76bb
+SHA1: b20e13808091dce48b37c5ae962b7c69d7da6369
+SHA256: b02a9fc335738ff85bc2d7d1decd3830789e948f99049df42562acc3aa56c123
+Section: Tweaks
+Description: 适用8.11.1版本。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/bdwp.html
+Name: 百度网盘提速
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bdnetdisksileo
+
+Package: com.yourepo.lly.bobohair
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.bobohair.deb
+Size: 221460
+MD5sum: 0fe5e17e835fbb3f38ae835f93de1310
+SHA1: 4796eed3c5165600eeaea4afbed9df508680219e
+SHA256: 0726ba7572bc40903ced8edfb318e73db8181173113a012f7622543c85de102f
+Section: Tweaks
+Description: 波波网Pro，解锁付费课程。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/bobohair.html
+Name: 波波网Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bobohairsileo
+
+Package: com.yourepo.lly.catasmr
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.catasmr.deb
+Size: 11460
+MD5sum: 6f41d00926cdd9b12bd3b4a0b582dcac
+SHA1: e6194a7eb76d89e4ed9e36e848c07d673e5a23d9
+SHA256: a134e28fd87f897c816a44edf56debf308b44b72e64d89b60ff1e94985a5fd5d
+Section: Tweaks
+Description: 猫耳夜听Pro，解锁VIP权限，客户端appstore下载即可。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/meyt.html
+Name: 猫耳夜听Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/meytsileo
+
+Package: com.yourepo.lly.chaifei
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.chaifei.deb
+Size: 221876
+MD5sum: 3846a2fad52f43e32e419e96fcb6de92
+SHA1: 723de53ca21098f329181c06cb7d4f428c1a5467
+SHA256: fce86b4b1530ea377b74bb71184a700da153bdbbcf16f5e6a9aac1e67d4d9f17
+Section: Tweaks
+Description: 柴扉解锁会员权限，查看每日新增内容，查看所有历史内容。客户端appstore下载
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/caifei.html
+Name: 柴扉Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/caifeisileo
+
+Package: com.yourepo.lly.chzb
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.chzb.deb
+Size: 12644
+MD5sum: dae7a0444e42c0d3e1174f365cec7654
+SHA1: 6774cd07da8e30d0380c32c35ae5ac8a2f1c1f46
+SHA256: df4c1a7d7d4be0b700c008f2df6c32b5e42e08e9d5217f3d64db250e595d2e3e
+Section: Tweaks
+Description: 圈子账本Pro，解锁VIP权限，客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qzzb.html
+Name: 圈子账本Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qzzbsileo
+
+Package: com.yourepo.lly.community
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.community.deb
+Size: 15496
+MD5sum: 39a159f2e488c284270b9904f5dc564a
+SHA1: b33e4ef471f13e5e99391b61acc282a059cf1964
+SHA256: cabf22d7aa55a950e7aa86efaca96e8f71e81b4bd1142f74104a997b14a4cd14
+Section: Tweaks
+Description: 云图电视直播，去启动广告，播放广告。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ytds.html
+Name: 云图电视直播去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ytdssileo
+
+Package: com.yourepo.lly.crack
+Version: 2.2.7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3276
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.crack.deb
+Size: 916326
+MD5sum: 0bb19b25289bf409775ae590b6d9ea35
+SHA1: 74d20e60aac7ca08ec9156e79a9cd1d346cc131e
+SHA256: d2a44090bab6259f60506e21230e5eb28fa53508646802ed4e5ce19c450ecd80
+Section: 会员专区
+Description: 各种插件破解工具，仅供会员测试体验，如有能力请购买正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/crack.html
+Icon: file:///Library/PreferenceBundles/crack.bundle/icon@2x.png
+Name: Crack It
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/cracksileo
+
+Package: com.yourepo.lly.cydiazq
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.cydiazq.deb
+Size: 11446
+MD5sum: 40500af633c21c0c73a655011d8e79ba
+SHA1: 881cee72063245c95b716dc8fddfb8beaefca64f
+SHA256: 2d8cbbe919d3ac093d80896a45da772a04c6d926f79d0f3d8b3da898555dda18
+Section: Tweaks
+Description: Cydia增强，去除黄色错误，去除非法源提示。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/cydiazq.html
+Name: Cydia增强
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/cydiazqsileo
+
+Package: com.yourepo.lly.dismissalert
+Version: 0.0.2-3
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 876
+Depends: mobilesubstrate, applist
+Filename: ./debs/com.yourepo.lly.dismissalert.deb
+Size: 205656
+MD5sum: dd188b2e4288c9b53a1a24fbf30bcbb8
+SHA1: 4edac72e03e9e7114e3f4a7841d1eab1b07de940
+SHA256: 842bee94fa156df7fa38b6e7b0d59a22e352c4b8884b806c5a3c500d99ff22bd
+Section: Tweaks
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
+Name: DismissAlert
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
+
+Package: com.yourepo.lly.driveapp
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.driveapp.deb
+Size: 225622
+MD5sum: 97dceac69093216c8f88c8d0001af02e
+SHA1: 56fad815602f8d5a19f0a2abb66526e6394da039
+SHA256: 0e21e23d6ac1cb1d51db00e9cde0c22f1b76649af4446bb2f6ed5dd737462c88
+Section: Tweaks
+Description: 驾校一点通Pro，解锁会员权限。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/jxydt.html
+Name: 驾校一点通Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/jxydtsileo
+
+Package: com.yourepo.lly.fakecamerahook
+Version: 2.1-6
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 20803
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: apt.3k.net.85819.ios.otrlocation
+Filename: ./debs/com.yourepo.lly.fakecamerahook.deb
+Size: 7573594
+MD5sum: adaded9c9d7a7076d2ff91f906f6473e
+SHA1: 5823e8cd444cbd756172efebc9122f4c385ca3c5
+SHA256: 4140e8ffb0f0533a9d17422e85ea571f46ef3158b6ab90c205333572e1ddf349
+Section: 会员专区
+Description: 一款模拟摄像头app,可以替换摄像头拍摄出来的照片.世界任我行,天下游不停,伪装地理位置,易天行者,神行者,Fake GPS。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/mfxj.html
+Icon: file:///Applications/fakecamera.app/AppIcon29x29@2x.png
+Name: 魔法相机破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/mfxjsileo
+
+Package: com.yourepo.lly.fakestephook
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: lenglengyu@126.com
+Depends: mobilesubstrate, com.yourepo.lly.crack
+Filename: ./debs/com.yourepo.lly.fakestephook.deb
+Size: 93456
+MD5sum: 9e9c6e8c8178a81d6932588a814af22b
+SHA1: e4b1dfb159385f1f0a9fe9124f6d7071784b4428
+SHA256: a5d7982714391d3128fed7f366aca3194bef938ebe22c708a90fe49435af1aa5
+Section: 会员专区
+Description: FakeStep破解版，仅供会员体验测试，如有能力请支持正版。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/fakex.html
+Name: FakeStep破解版
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fakexsileo
+
+Package: com.yourepo.lly.fixfrozen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.fixfrozen.deb
+Size: 4444
+MD5sum: aed64c44d9e53258c9d4f20bba416fe0
+SHA1: 89e206b34793f96a4652a6edcae580617dde383a
+SHA256: 934f57a84fe9c88bcfde40a79ea4ed8f38c52079ed9b6f404694b7c4d1cafd19
+Section: Tweaks
+Description: 改善内存溢出造成的频繁重启、注销问题。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/fixfrozen.html
+Name: FixFrozen(全设备)
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fixfrozensileo
+
+Package: com.yourepo.lly.fqzs
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourepo.lly.fqzs.deb
+Size: 118344
+MD5sum: 321c6ef1f69331b441cf616beafde3fc
+SHA1: 71c414781619a59478242be5f3339a25fa2ed941
+SHA256: e940f9ccc9905ed31fa1fc9bbe1b0464730452bad27a56ac5bd90a6ad5832d58
+Section: Tweaks
+Description: 番茄微信消息助手破解版
+Author: 番茄
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxmessageassistantDp
+Name: 番茄微信消息助手破解版
+
+Package: com.yourepo.lly.goart
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.goart.deb
+Size: 17016
+MD5sum: 25f06e5d60943c2047ff34cc35031ba0
+SHA1: a74f10a0c12a69e190aec3c03a8b4654a5af7c75
+SHA256: ad16dd4ed04ae51de16b8938e1116d0805069028730bbd2644feec77a467a8e1
+Section: Tweaks
+Description: 大画家，去除水印，解锁所有模版。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dhj.html
+Name: 大画家Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dhjsileo
+
+Package: com.yourepo.lly.hjzplayer
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.hjzplayer.deb
+Size: 20804
+MD5sum: 1d34fc8008798bc5ccd13d81bf558c98
+SHA1: 797bb0c77b3fe2a226d7914357e9de386de213f9
+SHA256: b1e66548c6d04d48bda2f476355ab83d72010b914640288b31e89346a3af052c
+Section: Tweaks
+Description: 黑匣子player商店版增强，无限次数短视频无水印解析，客户端appstore下载即可。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/hjz.html
+Name: 黑匣子player增强
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/hjzsileo
+
+Package: com.yourepo.lly.jsbox
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.jsbox.deb
+Size: 14320
+MD5sum: 1e8df8a64b4228c48743522ec8582663
+SHA1: b864da371e2e7881739a72d4140070709391370a
+SHA256: 9ed807557e71ff10a8e867534a2b6c52f66200ae5ac56012c630613dbfab0f72
+Section: Tweaks
+Description: JSBox去除共享账号检测
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/jsbox.html
+Name: JSBox去限制
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/jsboxsileo
+
+Package: com.yourepo.lly.keep
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.keep.deb
+Size: 225380
+MD5sum: 6ab05aa72055703db54be8d7ef7f48a6
+SHA1: 10e68074dc1d384893bffa042dbf0122522a871a
+SHA256: 8f539dca2326ec83f6897ffb99a26bfdb33062026a42f78c718deca4aab263cf
+Section: Tweaks
+Description: Keep Pro，解锁付费私家课。即探索页面，私家课。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/keep.html
+Name: Keep Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/keepsileo
+
+Package: com.yourepo.lly.kmi
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.kmi.deb
+Size: 12846
+MD5sum: 698bc3ee7666b88833b25e79cb3c4c1a
+SHA1: b37459de6e8f051ec3b2fd1fef1700c3a4cecd53
+SHA256: 17b32e11a25d87a96912ca567b52b7d96d5d2cc52eae3c5fc1cf080b543368ba
+Section: Tweaks
+Description: K米Pro，解锁VIP权限，客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/kmi.html
+Name: K米Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/kmisileo
+
+Package: com.yourepo.lly.lastpasspro
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.lastpasspro.deb
+Size: 223372
+MD5sum: ed41b490e14106ae8ac7a6d87fa7f590
+SHA1: b7936c3bd3c9d664ab361ef44ca35ceacdc8b0a8
+SHA256: 52ac631396782c4f3107ec7fc7bce04c77c85d0bb2d8e30b89dd88dd8814600c
+Section: Tweaks
+Description: LastPass Pro，解锁会员权限，客户端美区appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/lastpass.html
+Name: LastPass Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/lastpasssileo
+
+Package: com.yourepo.lly.musictv
+Version: 1.3.6
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.musictv.deb
+Size: 1427522
+MD5sum: 11102db464f70334171e3586649ccca1
+SHA1: 55bd48db3f639fab549cf92ded87f8689f94a606
+SHA256: fce18679720942ad081bd3b1b538a9d39539f7d2a8b1e5da2dff7960dc1949d0
+Section: Tweaks
+Description: 高清、无广告、海量资源、首发MV
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/yyt.html
+Name: 音悦台
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/yytsileo
+
+Package: com.yourepo.lly.nanrenzhuang
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.nanrenzhuang.deb
+Size: 17954
+MD5sum: e9307ba37c83ee047dcfba7887aeae13
+SHA1: 6407cff28131851f72cde6cf583a641bc3f8e86e
+SHA256: b6edb8928fca7470ccf39b4052581bfa7db7a2d1c3d3b5a1a0aaa18edb8399e0
+Section: Tweaks
+Description: 男人装官方版，解锁收费电子刊、会员权限。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/nrz.html
+Name: 男人装Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/nrzsileo
+
+Package: com.yourepo.lly.pdfconverters
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.pdfconverters.deb
+Size: 12072
+MD5sum: ec1bb32d3596a29340d3fb57c4749b82
+SHA1: 0afbe42fc1c50c8a8c52a31db5626b712656a6dd
+SHA256: 396c5558aba19056fffaed48c01ccef8d709ca6bdfb36da6ba337dcabb2e2a74
+Section: Tweaks
+Description: 迅捷PDF转换工具，解锁VIP权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xjpdf.html
+Name: 迅捷PDF转换工具Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xjpdfsileo
+
+Package: com.yourepo.lly.pjsq
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.pjsq.deb
+Size: 11168
+MD5sum: 687d8ff53da46ef3f30bee658829787f
+SHA1: 37ae58030e8ef8a6eec039182f8c86feae0fdeba
+SHA256: 241a7171445d14fee370c5ebdf40e73a21a442ac8aa54eec687e81be00bfb628
+Section: Tweaks
+Description: 幻鳞微商去授权
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/wlws.html
+Name: 幻鳞微商去授权
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wlwssileo
+
+Package: com.yourepo.lly.ppdnoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.ppdnoads.deb
+Size: 11856
+MD5sum: 92bdec9379a441a4813703f13d98b75f
+SHA1: ccc2f3ef222a37bdd1a05aee8cbd0cea52a56130
+SHA256: 4e08a5af7441975cd8c18ea6ecce98a1ed679807021b03c9fff9d4b7a812c5ff
+Section: Tweaks
+Description: 拍拍贷去启动倒数。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ppdqgg.html
+Name: 拍拍贷去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ppdqggsileo
+
+Package: com.yourepo.lly.prozs
+Version: 3.5.0-2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3632
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Conflicts: com.yourepo.lenglengyu.prozs, com.lenglengyu.cutisanpro, com.lenglengyu.qmxspro, com.lenglengyu.recshotpro, com.lenglengyu.autoeditpro, com.lenglengyu.yunmeishe, com.lenglengyu.lianzidashi, com.lenglengyu.czjgs, com.lenglengyu.vpnpro, com.lenglengyu.gushihui, com.lenglengyu.yilin, com.lenglengyu.duzhepro, com.lenglengyu.kpoint, com.lenglengyu.baobaoquan, com.lenglengyu.ssshotpro, com.lenglengyu.tingshu, com.lenglengyu.mingsafe, com.lenglengyu.quvideo, com.lenglengyu.qsjtwpro, com.lenglengyu.ringtones
+Filename: ./debs/com.yourepo.lly.prozs.deb
+Size: 1326982
+MD5sum: 9c48e15be08b41f3218de2159b179935
+SHA1: e8cd3f518d32cfb2fc72bd4432d1d2b9c0fcdf25
+SHA256: 6061aa3b2cb658a1958261f9342d04c6e2b2405b61c511e3453f4f31abc3be10
+Section: Tweaks
+Description: 已适配A12。各类常用app开启Pro权限，相关app商店下载即可。即将添加更多app。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
+Icon: file:///Library/PreferenceBundles/prozs.bundle/icon@2x.png
+Name: Pro助手
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
+
+Package: com.yourepo.lly.qimao
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.qimao.deb
+Size: 15818
+MD5sum: d45f1f3677d76a61860451a56805e1f6
+SHA1: 2408786dc6ef3ac8aa264adf3e5c6aaa12d1d6d9
+SHA256: eb5cfbf3527101482da3f746d3f362a3332ab3f92372053535c0de56b8f5d557
+Section: Tweaks
+Description: 七猫小说，去广告。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/qmxsqgg.html
+Name: 七猫小说去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/qmxsqggsileo
+
+Package: com.yourepo.lly.scdzs
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 516
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.scdzs.deb
+Size: 144032
+MD5sum: e92e243d169a805a0e070a3e2e6dc388
+SHA1: 65c21a77afc64199a7e7cfa83ec783bf21704a6a
+SHA256: 49f37d19584771d65e65ee620e9e26032ad97195209b6573149c619867af43e2
+Section: Tweaks
+Description: 圣才电子书，考研、考证必备神器。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/scdzs.html
+Name: 圣才电子书Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/scdzssileo
+
+Package: com.yourepo.lly.shayujz
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.shayujz.deb
+Size: 18830
+MD5sum: 19a89636ee4fffa3813767a8be8fd950
+SHA1: 08ca043c22a9dadfff43dca854e0af267fb089c9
+SHA256: 0f8e978cb04ab32054547331b85ca96788a61c854eb4e9a9172290d964986c27
+Section: Tweaks
+Description: 鲨鱼记账Pro，解锁VIP权限。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/syjz.html
+Name: 鲨鱼记账Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/syjzsileo
+
+Package: com.yourepo.lly.solar
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.solar.deb
+Size: 11518
+MD5sum: 66001c64db39fe81e6b79f5895c04494
+SHA1: cc4447f0a7918f06e67049db1b4a66a6a35dd8aa
+SHA256: 28dc818e6eda8ca889abef2b5aff59ab04b685e4e05f79456c39b426742c6758
+Section: Tweaks
+Description: 小猿搜题解锁VIP学习专区30秒试看限制
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
+Name: 小猿搜题增强
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
+
+Package: com.yourepo.lly.system
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 2244
+Depends: mobilesubstrate, firmware (>= 12.0), com.creaturecoding.libcspreferences, preferenceloader
+Conflicts: com.yourepo.lenglengyu.system
+Filename: ./debs/com.yourepo.lly.system208.deb
+Size: 537444
+MD5sum: dae45f45af844deee8cf53031045c8a9
+SHA1: 7d696b875642742122a356ac64503d2d3d3ee933
+SHA256: 05fb964f4c5390794889837cc5c6fe7acf9744529f39dd8dfbcfd3dc2d877d03
+Section: Tweaks
+Description: 系统通知中心、主屏幕、锁屏、文件夹等等优化，iPhone X以上机型自测，没设备测试。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/system.html
+Name: 系统优化
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/systemsileo
+
+Package: com.yourepo.lly.system
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 2316
+Depends: mobilesubstrate, firmware (>= 12.0), com.creaturecoding.libcspreferences, preferenceloader
+Conflicts: com.yourepo.lenglengyu.system
+Filename: ./debs/com.yourepo.lly.system.deb
+Size: 556898
+MD5sum: fa209a50c15d9c14f901242783d52858
+SHA1: 0273cdb7c542105964a1ceed696d56c4fc76d3ef
+SHA256: a701874a3b8487e6adbdb8301bd0b7529a3cdb047330f172e7115fcfc5d85760
+Section: Tweaks
+Description: 系统通知中心、主屏幕、锁屏、文件夹等等优化，iPhone X以上机型自测，没设备测试。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/system.html
+Name: 系统优化
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/systemsileo
+
+Package: com.yourepo.lly.thornoverity
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.thornoverity.deb
+Size: 146124
+MD5sum: f0170eaa356031471f66c09690564550
+SHA1: 7df5af7331786cc2f4ae1345deb02ed5777b0716
+SHA256: bfd43fe04fb40f89fec3c5965beb60d0f92a8d9cb3e9aee1dabd64d770cec4cb
+Section: Tweaks
+Description: Thor去共享账号设备限制，可查看断点、编辑断点。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/thor.html
+Name: Thor去限制
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/thorsileo
+
+Package: com.yourepo.lly.twitterrificpro
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 812
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.twitterrificpro.deb
+Size: 222478
+MD5sum: e1610d7e4be41a7c86b6b8eaacc71ead
+SHA1: e6d40b34ad025a47c19751ce4efecedb72fcf657
+SHA256: 77125b692d44e4161145a1dc27a444069ce830d272142f3514f1397866a88498
+Section: Tweaks
+Description: TwitterrificPro，解锁会员权限。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/twitter.html
+Name: TwitterrificPro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/twittersileo
+
+Package: com.yourepo.lly.vinision
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.vinision.deb
+Size: 12426
+MD5sum: c4304173126fc3d8cc771c7701c24a73
+SHA1: ff48ad4806b0a681e0cdb78f98d13df45e12a514
+SHA256: faaf007b0ba1318f0b801757a8c2f10a04397e8ac366560f7802e5724f78e677
+Section: Tweaks
+Description: 大片-视频编辑器解锁会员权限。客户端appstore搜“大片”即可下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dpspbj.html
+Name: 大片视频编辑Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dpspbjsileo
+
+Package: com.yourepo.lly.wxff
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.wxff.deb
+Size: 12512
+MD5sum: b9e314caee09a1e01f49e10261235fa5
+SHA1: 38f6bb4a5c246139a92343fe41c3766d767fb903
+SHA256: 1c902beadbf6db9df3586494e27f4caf78d7463d299f850a9e338c1b607a7018
+Section: Tweaks
+Description: 经过对新达人、新奇迹等号称最强防封的三方微信的分析，发现了几个共同之处，自测15天，稳定。不保证你也有效果，慎用。
+Author: lenglengyu <lengyu1983@gmail.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/wxff.html
+Name: 微信防封
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/wxffsileo
+
+Package: com.yourepo.lly.wxmyhook
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu@126.com
+Installed-Size: 460
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.wxmyhook.deb
+Size: 322064
+MD5sum: f167850a76e05f64fb6019a0dcab8f58
+SHA1: ed246dd281aa872cad9acb9090322607b68be2ac
+SHA256: 75666cc0599e45765adbe02abc0d5a233bed1923b92094877cdbfbd7506a80f6
+Section: Tweaks
+Description: 番茄密友破解版，无视试用到期提示。
+Author: lenglengyu
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxsecretfriendDp
+Name: 番茄密友破解版
+
+Package: com.yourepo.lly.wxviphook
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu@126.com
+Installed-Size: 460
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.wxviphook.deb
+Size: 268890
+MD5sum: 4c570f05e6efc9752bb471662140781b
+SHA1: 263f9fdec91cbab11948d6973bb9fa73cd7dee47
+SHA256: e119f4b7610875a7b6dd7745579a30949af58057ec2795805c842dcacf74ada6
+Section: Tweaks
+Description: 微信VIP密友破解版，无视试用到期提示。
+Author: lenglengyu
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxviptweakDp
+Name: 微信VIP密友
+
+Package: com.yourepo.lly.xhcp
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.xhcp.deb
+Size: 14264
+MD5sum: 05b6e8ae20b3a65b8f3ee540c03f1b6d
+SHA1: f0a4077d1b0008184b7bbf4457473834d095d652
+SHA256: 8b794111e56cce4ca1d1d173bd4b49c7c143138e03d70dd9a12debf2f4b68165
+Section: Tweaks
+Description: 香哈菜谱去启动广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xhcp.html
+Name: 香哈菜谱去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xhcpsileo
+
+Package: com.yourepo.lly.xunlei532
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.xunlei532.deb
+Size: 16812
+MD5sum: a2d6e9244a8edc8522148357bf6ceed7
+SHA1: 150fa9a9947dcf3c3730789df56bb266fe9dfe9e
+SHA256: f1e5001cdc0d5a827f856512fa9a033f0805132276583d9c86c33b26b5e6e10c
+Section: Tweaks
+Description: 迅雷加速引擎。适用5.3.2版本。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xunlei532.html
+Name: 迅雷加速引擎
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xunlei532sileo
+
+Package: com.yourepo.lly.ymks
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.ymks.deb
+Size: 12108
+MD5sum: be70c08baf15e969d44d72eebe6f0e4b
+SHA1: daded0468b1090afe0052f72ca1457bd36c97844
+SHA256: 2cd0af8bab16b1121f8f0d252e2c9e5c06e9f2f7c0243506e1f7baff7e6616a8
+Section: Tweaks
+Description: 夜猫看书，去启动广告，去阅读页面底部广告，去章节尾弹窗广告，去小说简介页广告。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ymksqgg.html
+Name: 夜猫看书去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ymksqggsileo
+
+Package: com.yourepo.lly.zishuovideo
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 516
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.lly.zishuovideo.deb
+Size: 143628
+MD5sum: d2737f8663f431a36c6e820e27d7665d
+SHA1: 15c341579f44ae78e58cedc69479003054f01d66
+SHA256: ae435ecd67ecb5264268b5db03f81a92c53d487f538110233558903ac24735bd
+Section: Tweaks
+Description: 更新支持最新版本。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/zs.html
+Name: 字说Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/zssileo
+
+Package: com.yourepo.llyy.supervip
+Version: 1.7.5
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 4212
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Conflicts: com.lenglengyu.newcldsp, com.lenglengyu.hilang, com.lenglengyu.yibendao, com.lenglengyu.nmsqwxk, com.lenglengyu.qzspwxk, com.lenglengyu.kuaishoudsp, com.lenglengyu.youmi, com.lenglengyu.dqsjpro, com.lenglengyu.91dspwxk, com.lenglengyu.91av, com.lenglengyu.xmsq, com.lenglengyu.xmlypro, com.lenglengyu.fddspro, com.lenglengyu.qtfmpro, com.lenglengyu.autolearningpro, com.lenglengyu.xmlyetpro, com.lenglengyu.supervip2, com.lenglengyu.69rwxk, com.lenglengyu.sipaitv, com.lenglengyu.ymlm
+Filename: ./debs/com.yourepo.llyy.supervip.deb
+Size: 1739708
+MD5sum: 3abc3b302c55feac2f3db3890646df5a
+SHA1: 39818b87c098bf179f89cc73fca68b965218b0b6
+SHA256: bd58625d21238ea89476f30f8bdffd169362668c70f478775e326826e2541f4b
+Section: 会员专区
+Description: 超级影视助手，av无限看，直播破解收费，影视会员，视频去广告，听书会员。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/supervip.html
+Icon: file:///Library/PreferenceBundles/supervip.bundle/icon@2x.png
+Name: SuperVIP
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/supervipsileo
+
+Package: lenglengyu.bookmarknoad
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/lenglengyu.bookmarknoad.deb
+Size: 224102
+MD5sum: 91824249d32b34745a9627a4b3e35046
+SHA1: 8b2c4fa917af391a850dd0050a170d40b67fd081
+SHA256: 9aa3d3709411f769f965b88d50126bbaed5c3ce2750128cd933c6903f71a50c0
+Section: Tweaks
+Description: 去除各种广告。客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/bookmark.html
+Name: 蚂蚁书签(原免VIP视频)去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bookmarksileo
+
+Package: lenglengyu.mxzpro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: ./debs/lenglengyu.mxzpro.deb
+Size: 225580
+MD5sum: 65f42bd4329f5f335c496a89c45e5db4
+SHA1: f3e7a3041dd5f56c127bd31f5e23b899b3608868
+SHA256: ca8d8dc06edc2376f7b59b7edcb985f60011b943d077c77553e88fc888a151be
+Section: Tweaks
+Description: 蜜小助Pro，解锁会员权限，客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/mxz.html
+Name: 蜜小助Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/mxzsileo
+
+Package: repo.lenglengyu.bearpro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/repo.lenglengyu.bearpro.deb
+Size: 224588
+MD5sum: 1423b2132bfae69e24cce70c1ecf181a
+SHA1: 8154a5785a808631a33bf082e1016efe9859f173
+SHA256: 187b2f05a89cebd388bf5048bd2771b09fa131039466772321535b2d8e992d0e
+Section: Tweaks
+Description: 熊掌记Pro，解锁Pro权限，客户端appstore下载即可。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xzj.html
+Name: 熊掌记Pro
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xzjsileo
+
+Package: repo.lenglengyu.kgmusic
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 836
+Depends: mobilesubstrate
+Filename: ./debs/repo.lenglengyu.kgmusic.deb
+Size: 228816
+MD5sum: 6c0dcd3543f164ae722ae4d2ee5a5dc5
+SHA1: af2b5bc6b5e4a20d5a38d6af0d8919f4a082e9dd
+SHA256: 64ff6e027a80ee4d185c16dda4a8aab99cc8eb84a134fd71f3814f562c6255d1
+Section: Tweaks
+Description: 1.去启动广告。2.解锁会员皮肤、会员音效。3.解锁VIP普通音质下载。需要在播放界面下载。仅此而已，其它无解。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/kgmusic.html
+Name: 酷狗音乐不完美破解
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/kgmusicsileo
+
+Package: repo.lenglengyu.whsqnoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 832
+Depends: mobilesubstrate
+Filename: ./debs/repo.lenglengyu.whsqnoads.deb
+Size: 225490
+MD5sum: ae591b0b959846d35ffed0b59bf6a080
+SHA1: e06ad246fa2309293e933e3c05532f1f0ad080c0
+SHA256: 3249d3714a31cf1751ed7cf3ee72a02dc1de09031aacf5aa4dd1a4de47bfd3c2
+Section: Tweaks
+Description: 秒看网红神器去广告，客户端appstore下载。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/mkwhsq.html
+Name: 秒看网红神器去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/mkwhsqsileo
+
