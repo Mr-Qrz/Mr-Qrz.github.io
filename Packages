@@ -1,17 +1,5 @@
-Package: com.hongv.test
-Section: System
-Maintainer: Mr Gao
-Architecture: iphoneos-arm
-Filename: ./deb_files/com.hongv.test.deb
-Version: 1.0
-Depends: firmware (>= 99.0)
-Description: 此安装包是空包，请勿安装。
-Name: 测试包
-Author: Mr Gao~
-Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
-
 Package: netskao.wpsofficecrack
-Version: 1.1－1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Mr gao
 Filename: ./deb_files/netskao.wpsofficecrack_1.1-1_iphoneos-arm.deb
@@ -19,3 +7,70 @@ Section: 插件
 Description: WPS开启会员功能，但无法下载模板
 Author: netskao
 Name: WPS会员破解
+Md5sum: 33CFC91087A4DE3A872F6E0B9ED7D985
+
+Package: otrlocation
+Version: 6.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/otrlocation_6.0.1-1_iphoneos-arm.deb
+Section: 插件
+Description: 虚拟定位，自行解决国行设备联网问题
+Author:  
+Name: 虚拟定位
+Md5sum: BFF61064C639121587431997E4676767
+
+Package: bikacgapp
+Version: 2.1.2.1
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/bikacgapp_2.1.2.1_iphoneos-arm
+Section: 插件
+Description: BKCG去广告版
+Author:  
+Name: Bika去广告版
+Md5sum: FD299A8780545A085BC501CB368B6E9A
+
+Package: antirevoke
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/7days-antirevoke_2.0_iphoneos-arm.deb
+Section: 插件
+Description: 无视证书过期
+Author:  
+Name: antirevoke无视证书过期
+Md5sum: 4F7A1645680BD4B6A899C3581B362F28
+
+Package: AppSync Unified
+Version: 70.0
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/appsyncunified10_70.0_iphoneos-arm.deb
+Section: 插件
+Description: 关闭签名检查
+Author:  
+Name: AppSync Unified
+Md5sum: 38AA9704D85505AABD3DE4D4281AB50C
+
+Package: APPstorepp
+Version: 0.9.8-9
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/appstorepp_0.9.8-9_iphoneos-arm.deb
+Section: 插件
+Description: 应用商店软件降级，长按下载按钮即可
+Author:  
+Name: AppSore降级
+Md5sum: E8BDA0C0AA740D5D1D1A9AA555309749
+
+Package: storeswitcher
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Mr gao
+Filename: ./deb_files/storeswitcher2_1.0.3_iphoneos-arm.deb
+Section: 插件
+Description: 应用商店账户快速切换
+Author:  
+Name: AppSore账户切换
+Md5sum: 22BFA7C2FBD925090651F648D419C52D
